@@ -163,7 +163,7 @@ int main()
 
 
 	}
-
+	/*ok*/
 	glfwDestroyWindow(window);
 	glfwTerminate();
 
